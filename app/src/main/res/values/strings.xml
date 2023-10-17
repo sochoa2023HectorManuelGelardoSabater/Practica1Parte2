@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Practica1Parte2</string>
+    <string name="hector_manuel_gelardo_sabater">Héctor Manuel Gelardo Sabater</string>
+    <string name="btComprobar">Comprobar</string>
+    <string name="msj_numero">Introduce la contraseña</string>
+    <string name="resultado">Bienvenido!!</string>
 </resources>
