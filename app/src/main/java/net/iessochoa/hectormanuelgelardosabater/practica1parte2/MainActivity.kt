@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
 
     fun enviarResultado() {
 //comprobamos si el campo está vacío
-        if (!etNumero.text.isEmpty()) {
+        if (etNumero.text.toString().equals("1234")) {
 //Creamos el Intent hacia resultadoActivity
             val intent = Intent(this, resultadoActivity::class.java)
 //le pasamos el contenido como clave:valor(parecido a un map)
